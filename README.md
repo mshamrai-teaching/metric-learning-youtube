@@ -34,7 +34,7 @@ Welcome to the Metric Learning assignment for the Computer Vision course! In thi
   * Explore techniques such as feature extraction, vectorization, and similarity metrics to achieve this.
 
 * Tools and Libraries:
-  *  Investigate the following libraries for content-based video retrieval using visual features: FAISS, Elasticsearch, ChromaDB.
+  *  Investigate the following libraries for content-based video retrieval using high-dimensional features: FAISS, Elasticsearch, ChromaDB.
 
 ### Hints
 
