@@ -1,5 +1,3 @@
-# metric-learning-youtube
-
 # Computer Vision Course Assignment: Metric Learning with YouTube Commons Dataset
 
 ## Overview
